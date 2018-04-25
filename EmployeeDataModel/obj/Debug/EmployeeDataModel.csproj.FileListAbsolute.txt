@@ -1,0 +1,12 @@
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EmployeeDataModel.dll.config
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EmployeeDataModel.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EmployeeDataModel.pdb
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\obj\Debug\EmployeeDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\obj\Debug\EmployeeDataModel.csproj.CoreCompileInputs.cache
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\obj\Debug\EmployeeDataModel.csproj.CopyComplete
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\obj\Debug\EmployeeDataModel.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\EmployeeDataModel\obj\Debug\EmployeeDataModel.pdb

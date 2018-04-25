@@ -1,0 +1,12 @@
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\UserDataModel.dll.config
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\UserDataModel.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\UserDataModel.pdb
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\obj\Debug\UserDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\obj\Debug\UserDataModel.csproj.CoreCompileInputs.cache
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\obj\Debug\UserDataModel.csproj.CopyComplete
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\obj\Debug\UserDataModel.dll
+C:\Users\Ermain\Documents\C#_Code\EmployeeService\UserDataModel\obj\Debug\UserDataModel.pdb
